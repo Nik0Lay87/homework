@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T11:16:53.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.5.708 Yowser/2.5 Safari/537.36" etag="Q2afHOESQxKItHRFs7PY" version="21.0.10" type="github"><diagram name="Страница 1" id="1d7cVlk36BqXA-yyXSNt">3Vhtb5swEP41SNuHVWBeknxcmmyr1GmVInXdRzdcwBVgZEwD+/WzsYEQJ2n2kmStFCn2+Q7j557nOLDc67T6zHAef6UhJBayw8pyZxZCjm0j8ScttbL4wUQZIkZC7dQbFuQntJHaWpIQioEjpzThJB8alzTLYMkHNswYXQ/dVjQZ7prjCAzDYokT0/qdhDxW1jEa9fYvQKK43dlpz5fi1lmfpIhxSNcbJnduudeMUq5GaXUNiQSvxUXFfdqz2t0Yg4wfExDETxjh+/hhdf/Nh+KmcJc3H1x1lWeclPrA+mZ53SIAoQBETynjMY1ohpN5b50yWmYhyG1sMet9binNhdERxifgvNbZxSWnwhTzNNGrak+50d6zaVNBS7aEAwdqOYJZBPyAH+oyIKgLNAXOahHHIMGcPA/vA2sORZ1fD7MYaKR/A3XHQH0BgsDhR8Zw/Z3w+GZlpKEHWSK2jgmHRY4bLNZCersAfQbGoToMqQmBDkATT4Vo4bY0XvcqcFpbvKGAwD4RaP5boyo6kqreJamKDNQLzkgWWf7U8meqyOJa7B4k4gzTRyZGkRxpN+2ATAci8JJ1u2z+m2vbtpFSUTVzORQA4ySBhEYMpyI6B0bECYFtr931Cy+pZEUqaB85J1KN41xaNqO3JhvvSNkEl5SNZ6C+ooL59jvFerLBeAmOoQ25jgKcSsY2a53Srm4hiySVdodNm98eEcVQYZG3Lfloaycc9F8opysGLylnfCrljI0cZvQS2hEAsvpBxzeTH3Jy5bfTWbW5OKv17B9qLjjTo6oJbbqgDYecCtEUG1e+o0pFLXO80YA5rrfVCL/gj4b+YqDuoGdOd5S/aPlsg001FK+8FB9Li8klS3FgAE9WshLrxsUXVdOftVXVKLvuzH1vZInFNH0si/P04cEWu3fVxZF3xrromD3hK+fx5EgeO3tSdR4iTwzYdWvtT1UX3fTjqq0YkNtsFHTXvbNZGCbmDAQfBwOCe7taZjcwCX6yltkx38/nWXgAqMu8kfvHdkh/AJSY9l+m1DOw/77nzn8B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-23T11:18:03.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 YaBrowser/23.1.5.708 Yowser/2.5 Safari/537.36" etag="sAbzBRbNcHg5HymCX0L3" version="21.0.10" type="github">
+  <diagram name="Страница 1" id="1d7cVlk36BqXA-yyXSNt">
+    <mxGraphModel dx="1002" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6hja2aVhXfVO5esIs3cI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6hja2aVhXfVO5esIs3cI-1" target="6hja2aVhXfVO5esIs3cI-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6hja2aVhXfVO5esIs3cI-1" value="SecondArrayWithIf" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6hja2aVhXfVO5esIs3cI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6hja2aVhXfVO5esIs3cI-2" target="6hja2aVhXfVO5esIs3cI-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6hja2aVhXfVO5esIs3cI-2" value="string[] array1&lt;br&gt;string array2&lt;br&gt;int count = 0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6hja2aVhXfVO5esIs3cI-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6hja2aVhXfVO5esIs3cI-4" target="6hja2aVhXfVO5esIs3cI-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6hja2aVhXfVO5esIs3cI-4" value="for (int i = 0;&lt;br&gt;i &amp;lt; array1.Length;&lt;br&gt;i++" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6hja2aVhXfVO5esIs3cI-8" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6hja2aVhXfVO5esIs3cI-6" target="6hja2aVhXfVO5esIs3cI-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="247" y="340" />
+              <mxPoint x="247" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6hja2aVhXfVO5esIs3cI-10" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6hja2aVhXfVO5esIs3cI-6" target="6hja2aVhXfVO5esIs3cI-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6hja2aVhXfVO5esIs3cI-6" value="if (array1[i].Length &amp;lt;=3)" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="267" y="300" width="174" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6hja2aVhXfVO5esIs3cI-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6hja2aVhXfVO5esIs3cI-9" target="6hja2aVhXfVO5esIs3cI-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6hja2aVhXfVO5esIs3cI-9" value="array2[count] = array1[i]&lt;br&gt;count++" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="286" y="410" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6hja2aVhXfVO5esIs3cI-11" value="End" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
